@@ -1,0 +1,6 @@
+{
+  "name": "AdZero",
+  "description": "Privacy-first Android utility for system-wide local DNS ad and tracker filtering, per-app network firewall, encrypted WhatsApp Ghost Inbox, and optional YouTube Skip Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

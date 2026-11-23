@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AdZero</string>
+    <string name="app_tagline">Block Ads. Protect Privacy. Take Control.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_ghost">Ghost</string>
+    <string name="nav_activity">Activity</string>
+    <string name="nav_settings">Settings</string>
+    <string name="vpn_notification_channel_name">AdZero Protection</string>
+    <string name="vpn_notification_channel_desc">Persistent status notification while AdZero local VPN DNS protection is running.</string>
+    <string name="vpn_notification_title_active">AdZero Protection Active</string>
+    <string name="vpn_notification_title_paused">AdZero Protection Paused</string>
+    <string name="accessibility_service_label">AdZero YouTube Skip Assistant</string>
+    <string name="accessibility_service_description">Optionally detects and activates the Skip Ad button inside YouTube when skippable ads appear. Processes only YouTube skip-button UI elements locally and never reads or uploads unrelated content.</string>
+    <string name="notification_listener_label">AdZero Ghost Inbox</string>
+    <string name="quick_settings_tile_label">AdZero</string>
+    <string name="privacy_policy_summary">AdZero runs 100% locally on your device. No account registration, no ad or analytics SDKs, no remote VPN servers, and no external upload of DNS logs or notification previews.</string>
+</resources>
